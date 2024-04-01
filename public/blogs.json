@@ -1,45 +1,50 @@
 [
   {
     "ID": "123456",
-    "Cover": "cover1.jpg",
+    "Cover": "../src/assets/images/4.jpg",
     "Title": "The Secret Garden",
-    "Author_Image": "author1.jpg",
+    "Author_Name": "Frances Hodgson Burnett",
+    "Author_Image": "../src/assets/images/boy1.png",
     "Posted_Date": "March 15, 2024",
     "Reading_Time": 10,
     "Hashtags": ["fiction", "classics", "gardening"]
   },
   {
     "ID": "789012",
-    "Cover": "cover2.jpg",
+    "Cover": "../src/assets/images/4.jpg",
     "Title": "Into the Wild",
-    "Author_Image": "author2.jpg",
+    "Author_Name": "Jon Krakauer",
+    "Author_Image": "../src/assets/images/boy1.png",
     "Posted_Date": "February 28, 2024",
     "Reading_Time": 8,
     "Hashtags": ["adventure", "travel", "nonfiction"]
   },
   {
     "ID": "345678",
-    "Cover": "cover3.jpg",
+    "Cover": "../src/assets/images/4.jpg",
     "Title": "The Great Gatsby",
-    "Author_Image": "author3.jpg",
+    "Author_Name": "F. Scott Fitzgerald",
+    "Author_Image": "../src/assets/images/boy1.png",
     "Posted_Date": "April 5, 2024",
     "Reading_Time": 12,
     "Hashtags": ["classic", "romance", "1920s"]
   },
   {
     "ID": "901234",
-    "Cover": "cover4.jpg",
+    "Cover": "../src/assets/images/4.jpg",
     "Title": "The Hobbit",
-    "Author_Image": "author4.jpg",
+    "Author_Name": "J.R.R. Tolkien",
+    "Author_Image": "../src/assets/images/boy1.png",
     "Posted_Date": "March 20, 2024",
     "Reading_Time": 15,
     "Hashtags": ["fantasy", "adventure", "tolkien"]
   },
   {
     "ID": "567890",
-    "Cover": "cover5.jpg",
+    "Cover": "../src/assets/images/4.jpg",
     "Title": "Harry Potter and the Philosopher's Stone",
-    "Author_Image": "author5.jpg",
+    "Author_Name": "J.K. Rowling",
+    "Author_Image": "../src/assets/images/boy2.png",
     "Posted_Date": "April 10, 2024",
     "Reading_Time": 20,
     "Hashtags": ["fantasy", "magic", "childrensbooks"]
